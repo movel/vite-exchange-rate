@@ -1,2 +1,2 @@
 # vite-exchange-rate
-the exchange-rate App next generation
+The Exchange-Rate App Next Generation
